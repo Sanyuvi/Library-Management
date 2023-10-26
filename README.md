@@ -1,27 +1,5 @@
-## 💼 __PROJECT__ __NAME__ 💼 __:__ __LIBRARY__ __MANAGEMENT__  
----------------------------------------------------------------------------------------------------------------
-### 📽️ __LIVE__ __DEMO__ __LINK__ 📽️ __:__ "ornate-gecko-f18de0.netlify.app"
----------------------------------------------------------------------------------------------------------------
-### 📄 __PROJECT__ DESCRIPTION 📄 __:__ This is an Front End Project to display a website of Library books where you can able to CRUD
----------------------------------------------------------------------------------------------------------------
-### ⚙️ __REALTIME__ USAGE ⚙️ __:__ Librarians to view what books are available
----------------------------------------------------------------------------------------------------------------
-### 💻 __TECHNICAL__ SPECIFICATIONS 💻 __:__
-* HTML
-* CSS
-* BOOTSTRAP
-* REACT JS
-* FORMIK
-* REACT ROUTER DOM
-* REACT DOM
----------------------------------------------------------------------------------------------------------------
-### 📷 __IMAGES__ 📷 __:__
-![image](https://github.com/AdityaBK1/Library-Management/assets/131005390/86fb6afc-242a-4ef5-aa9d-8966a9dd80e2)
+---
 
-![image](https://github.com/AdityaBK1/Library-Management/assets/131005390/e632e931-5ffe-45a9-ba5e-81181fb66319)
-
-
----------------------------------------------------------------------------------------------------------------
 ### If you like it remember to give repo a star ⭐.
 
 ### Getting Started with Create React App
